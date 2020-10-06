@@ -47,12 +47,12 @@ public class AddingMachine {
 	}
 	
 	/**
-	 * toString method prints the arithmetic history of AddingMachine object out and returns it
+	 * toString method returns the arithmetic history of AddingMachine object
 	 * 
 	 * @return history - arithmetic history of AddingMachine object
 	 */
 	public String toString () {
-		System.out.println(history);
+		//System.out.println(history);
 		return history;
 	}
 	
